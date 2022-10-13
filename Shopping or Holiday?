@@ -1,0 +1,12 @@
+<html>
+    <ol>
+    <li data-ns-test="shoppingList">iphone</li>
+    <li data-ns-test="shoppingList">Smart TV</li>
+    <li data-ns-test="shoppingList">Dell Laptop</li>
+</ol>
+<ul>
+     <li data-ns-test="holidayList">cold places</li>
+    <li data-ns-test="holidayList">foregin</li>
+    <li data-ns-test="holidayList">goa</li>
+</ul>
+<html>
