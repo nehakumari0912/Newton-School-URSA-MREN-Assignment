@@ -1,0 +1,17 @@
+<html>
+    <img src="background.jpg">
+<h1>Neha</h1>
+<label for="linkedin profile">
+    <a href="linkedin.com">Neha</a>
+</label>
+<section id="skills">
+    <ul>
+        <li>skills</li>
+    </ul>
+</section>
+<section id="projects">
+    <ul>
+        <li>projects</li>
+    </ul>
+</section>
+<html>
